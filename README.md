@@ -1,1 +1,2 @@
-Artificial Intelligence TicTacToe
+# Artificial Intelligence TicTacToe
+Play tictactoe with artifical inteligence!
